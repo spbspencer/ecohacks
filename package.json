@@ -1,6 +1,7 @@
 {
   "name": "ecohacks",
   "version": "0.1.0",
+  "homepage": "https://spbspencer.github.io/ecohacks/",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
@@ -17,10 +18,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-     "start": "react-scripts start",
-     "build": "react-scripts build",
-     "test": "react-scripts test",
-     "eject": "react-scripts eject"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
