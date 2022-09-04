@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+}
+html{
+    padding: 0;
+    margin: 0;
+}
+body{
+    min-height: 100vh;
+}
+.categoryButtons:nth-child(1){
+    background-color: #2563EB
+}
+.categoryButtons:nth-child(2){
+    background-color: #34D399
+}
+.categoryButtons:nth-child(3){
+    background-color: #F87171
+}
+.categoryButtons:nth-child(4){
+    background-color: #0F766E
+}
+.categoryButtons:nth-child(5){
+    background-color: #FDE047
+}
+.categoryButtons:nth-child(6){
+    background-color: #78716C
+}
+.categoryButtons:nth-child(7){
+    background-color: #FACC15
+}
+.categoryButtons:nth-child(8){
+    background-color: #94A3B8
+}
+.categoryButtons:nth-child(9){
+    background-color: #F97316
+}
