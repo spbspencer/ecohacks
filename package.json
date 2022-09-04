@@ -1,7 +1,6 @@
 {
   "name": "ecohacks",
   "version": "0.1.0",
-  "homepage": "https://spbspencer.github.io/ecohacks/",
   "private": true,
   "dependencies": {
     "-": "^0.0.1",
