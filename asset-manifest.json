@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecohacks/static/css/main.a5fbc8af.css",
+    "main.js": "/ecohacks/static/js/main.e2c7b69c.js",
+    "index.html": "/ecohacks/index.html",
+    "main.a5fbc8af.css.map": "/ecohacks/static/css/main.a5fbc8af.css.map",
+    "main.e2c7b69c.js.map": "/ecohacks/static/js/main.e2c7b69c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5fbc8af.css",
+    "static/js/main.e2c7b69c.js"
+  ]
+}
